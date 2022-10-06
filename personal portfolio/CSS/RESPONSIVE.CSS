@@ -1,0 +1,10 @@
+/* @media(max-width:1200px){
+}
+@media(min-width:768px) and (max-width:991px){
+    #header_part{
+        display: none;
+    }
+    #menu_part {
+        display: block !important;
+    }
+} */
